@@ -3,9 +3,3 @@
 ---
 
 
-note
-[[__Unpublished/New Notes/Holy Saturday\|Holy Saturday]]
-
-
-
-
