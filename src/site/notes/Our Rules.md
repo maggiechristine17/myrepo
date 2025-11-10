@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/our-rules/","noteIcon":""}
 ---
 
-# Joseph
+## Joseph
 Joe gatekeeps Maggie's 3 holes.
