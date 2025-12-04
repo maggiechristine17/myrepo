@@ -4,4 +4,4 @@
 
 
 
-[[SMBash.com\|SMBash.com]]
+[[SMBash\|SMBash]]
