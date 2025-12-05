@@ -3,4 +3,4 @@
 ---
 
 
-[[Cl_New Notes/TN - Knoxville, Pidgeon Forge\|TN - Knoxville, Pidgeon Forge]]
+[[Cl_New Notes/TN - Knoxville, Pigeon Forge\|TN - Knoxville, Pigeon Forge]]
