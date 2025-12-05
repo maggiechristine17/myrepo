@@ -3,7 +3,7 @@
 ---
 
 ## Attractions
-#tag2 
+
 
 ### Museum of Art (free)
 https://knoxart.org/plan-your-visit/
