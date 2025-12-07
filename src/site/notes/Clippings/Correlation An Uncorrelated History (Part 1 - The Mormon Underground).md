@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"noteIcon":""}
 ---
 
-[Skip to content](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/#wp--skip-link--target)
+[View Original Blogpost](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/#wp--skip-link--target)
 
-## Correlation: An Uncorrelated History (Part 1 — The Mormon Underground)
 
-This post marks the beginning of a series on the origins and historical development of what Mormons typically denote with the term “Correlation.” It’s a long and complicated story, one that will require a number of installments to adequately canvas. It’s also an incredibly interesting story, involving, among other things, polygamy, the Underground, manifestoes, post-manifesto…
 
 ![](https://i0.wp.com/bycommonconsent.com/wp-content/uploads/2010/03/woodruf_old.jpg?resize=200%2C300)
 
@@ -21,7 +19,7 @@ Oh, Matsby — how could you?
 
 *As an antidote to this dilemma, I offered, and Daymon graciously agreed, to record a series of extended conversations, the first portion of which is transcribed below (with much more to come). It’s a long conversation, one that stretches back to pre-Manifesto Mormonism. It’s meant to be a kind of prolegomenon to Daymon’s analysis and argument, a conversation about and engagement with the dissertation, though by no means a substitute for reading it. For those brave, tireless souls who are interested, the dissertation is available [here in pdf form](http://bycommonconsent.com/wp-content/uploads/2010/03/daymon-smith-dissertation.pdf). Daymon is currently at work on two separate books drawn from the dissertation. The conversation that follows, it is hoped, provides a serviceable and accessible introduction to a complicated but relentlessly fascinating topic.*
 
-**Introduction: Origins**
+## **Introduction: Origins**
 
 **Brad**: So we want to start the conversation by simply trying to pin down what “correlation” is—is it some kind of committee, is it an administrative or editorial process, is it a mysterious, occult power, is it a state of mind?
 
@@ -138,142 +136,3 @@ First things first, though. The Underground. I think for a lot of readers, there
 \*\*\*\*
 
 Next time, on a Very Special Episode of *Correlation: An Uncorrelated History*: Daymon discloses to me the identity of my secret twin. Also we talk more about minds, manifestoes, and meta-language. Don’t miss this bloggernacle Event!
-
-### Help us satisfy google by sharing this post on your socials:
-
-- [Facebook](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/?share=facebook&nb=1)
-- [Reddit](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/?share=reddit&nb=1)
-- [Email](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/)
-- [Threads](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/?share=threads&nb=1)
-- [X](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/?share=x&nb=1)
-- [Tumblr](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/?share=tumblr&nb=1)
-- [Bluesky](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/?share=bluesky&nb=1)
-
-### Like this:
-
-Like Loading…
-
-1. Stephanie
-	Fascinating. I’m looking forward to more!
-2. Natalie B.
-	Thanks for this series. It’s great.
-3. [Brother Matsby](http://geniousarchive.blogspot.com/)
-	Wearing a mother hubbard dress? Mailing themselves in boxes?
-	It’s cool how much the Wiley Coyote cartoon character was based on actual people in Mormon history.
-	It reminds me of that time early polygamists arranged for an anvil to fall on the head of a suspected spy but then it didn’t go according to plan.
-4. Natalie B.
-	Yeah, the mother hubbard dress really stuck out to me given our current paranoia about cross dressing.
-5. [Wm Morris](http://www.motleyvision.org/)
-	Agreed — this is fantastic. Thanks, Brad and Daymon.
-	One request: maybe you go in to this later, but could you provide some demarcations and/or examples of the “Young Utahns” — when were they born; where they tended to live; any names that we might know, etc.?
-6. Steve Evans
-	I see no mention of Correlation in this post anywhere except the title. I feel betrayed by this trickery. Shame on you, and probably on Norbert since I am sure he put you up to this.
-7. [Brad](http://bycommonconsent.com/)
-	Wm,  
-	My sense is that “young Utah” is a kind of default category that gets latched on to and discursively emphasized by outsider commentators on Mormon polygamy. It more or less corresponds to two demographic trends: people already not participating in polygamy and the Underground, and people too young to have any close connection with it, a generation for whom polygamy is already something that seems past and bygone (despite its continued presence). As far as examples, the most prominent and important “young Utahn” coming of age in this period would be none other than David O. McKay.
-8. [Edje Jeter](http://www.juvenileinstructor.org/)
-	I look forward to the rest of the series.
-9. [Wm Morris](http://www.motleyvision.org/)
-	Thanks, Brad. I think it’s safe to say, then, that much of my knowledge of polygamy and the settlement of the west came from sources and relatives who represent Young Utah. But I guess that’s where we’re heading with the whole Correlation conceit.
-10. Norbert
-	Holy crack Daniel, that was interesting. I want more!
-11. Bro. Jones
-	Very cool and very informative. I definitely have gaps in my knowledge of late 19th-century church history, and this is a great exploration of issues during that time. Thank you!
-12. Susan W H
-	Wow, second coincidence of the morning! First Aaron R.’s post on British-Mormon culture that mentions Peter Vousden, an author I recently downloaded, and now Brad with Daymon Smith. I came across his Journal of Linguistic Anthropology article “Masque of Undergrounder and Spy” last week and paid $12 to download it. I thank both of you for the pdf to the entire dissertation at no cost. The topic here has little to do with the paper I was researching for my linguistics class, but does have a lot to do with my long-term project of writing about my great-grandparents and their families during the Raid. Yes, some of the men wore wigs, ran around in petticoats and used secret codes to communicate with church leaders.
-	The Deseret News accused Judge Zane of doing an about-face on the issue of sexual relations as an element of unlawful cohabitation in the Angus Cannon case, but it was in Murphy v. Ramsey, 114 US 15 (1885), decided March 23, 1885 that the Supreme Court said that bigamy or polygamy was a status, not an action, and that a male was still a polygamist if his wives lived in different houses unless he took steps to dissolve the marriage. The Cannon case was tried shortly after and was the first case using this definition. Zane was following the Supreme Court on this issue, and the Court upheld his ruling on Cannon’s appeal.
-	I look forward to reading the next in this series and I am going to read the dissertation.
-13. Kathryn Lynard Soper
-	Nice trannequin.
-14. [Velska](http://velska.wordpress.com/)
-	I won’t say this was interesting, simply because that would be stating something quite obvious.
-	What I do say, is that this anti-polygamy crusade at this point correlates (pun intended!) strongly with the crusade against communism, especially the [HCUA](http://en.wikipedia.org/wiki/House_Un-American_Activities_Committee "Wikipedia: HCUA") (it’s interesting to note, that as early as then, the ACLU was under suspicion for speaking up for Americans’ constitutional rights). In the heady days most people know as McCarthyism (he was just the most able to use this to his own advancement), the most effective way of, say, back-stabbing your immediate supervisor was to start a rumor that he had been seen in attendance at a communist gathering or even something seemingly far less incriminating, as long as you hinted it had something to do with communism. Nobody ever seemed to wonder how *you* happened to be there to observe him, but I digress.
-	I know only a bit of this phase of Church/Utah history (after BY, before SWK) from here and there, and this will be a good way to get a condensed view. I already downloaded the PDF and I’m going to read it, even if it takes a dictionary to do so.
-15. [Tracy M](http://dandelionmama.wordpress.com/)
-	Absolutely fascinating, Brad. Thank you- looking forward to more Very Special Episodes.
-16. [Cynthia L.](http://bycommonconsent.com/cynthia/)
-	Wow, this is fascinating. I’m loving both the facts of the history, and the insightful analysis/framing of things (noting the difference between spatial evasion and cultural intangible evasion).
-17. [Wm Morris](http://www.motleyvision.org/)
-	I don’t know that I’d use the word correlate, but on the flip side there were also some parallels to the experience of Eastern Europeans living under communism.
-	In particular, this issue of what you said being different from what you believed is an important one for the early days of the LDS Church in Romania. The sure way to tear families away from activity was to either accuse or defend someone accused of being collaborating. Of course, it gets very complex in terms of degrees of collaboration and what could be proved or not. But some members were a lot less likely to follow the missionaries advice of letting the past remain the past and that baptism removed all that. This is especially true since testimony is such an important part of the modern, correlated Mormon experience. Whose testimony can be believed? Who has really changed?
-	I don’t want to exaggerate — for the most part, all of us natives and missionaries took each other at face value and stuck with believing that what was said was what was felt in the heart. But the spectre was always there. And it did erupt a couple of times.
-18. 152
-	Love reading about this. Thank you.
-	Any chance of getting Scott B. to turn the master tapes of the discussion into a podcast? In this conversational layout I’d love to hear the tone of the discussion.
-19. Peter LLC
-	Get a life, Steve. This should be read as a memoir.
-20. [Steve Evans](http://www.bycommonconsent.com/)
-	EVEN MEMOIRS CAN HAVE A THESIS!!
-21. Moniker Challenged
-	Yowza. I’d send this to all of my LDS friends and family, but they won’t read anything that hasn’t passed correlation (or Brother Beck). Or anything produced by pinko commie spies. Looking forward to the next installment!
-22. [Scott B.](http://bycommonconsent.com/scott/)
-	> Any chance of getting Scott B. to turn the master tapes of the discussion into a podcast?
-	Not likely. The official podcast of By Common Consent, a Mormon Blog tends to eschew Mormon-related topics. Maybe I should work on that, but the outlook looks doubtful.
-23. [Scott B.](http://bycommonconsent.com/scott/)
-	I’m interested in the post for several reasons.
-	First, it’s phenomenally interesting generally. Second, it’s about a period of Church history I find particularly valuable because it was influenced by and influential for my own family lines. Lastly, I’m interested to see if Guinness will return my phone call about having measured the longest italicized introduction in Bloggernacle history.
-24. kevinf
-	Fascinating stuff. It prompts a question, though. I seem to recall that enforcement of Edmunds-Tucker was different in Idaho than in Utah, as Idaho was a state, and Utah still a territory. But since Idaho became a state in 1890, six years before Utah, did Edmunds-Tucker still apply in Idaho after statehood? Were enforcement efforts different in Idaho before 1890 due to more non-members, and fewer church members? I know a great-grandfather was in hiding in Idaho, and only visited my grandfather’s family at night once or twice a month, but that was post-manifesto. Did the Underground function as effectively outside of the Utah Territory?
-25. [Brad](http://bycommonconsent.com/)
-	kevinf, good questions. I do know that one of the significant SCOTUS rulings leading to the Manifesto (more on that in the coming installment) was the upholding of an Idaho law that disenfranchised Mormons for believing in–even without practicing–polygamy. It seems like enforcement and crackdown in Idaho were even more draconian against Mormons because our presence there was more diluted.
-26. [Brad](http://bycommonconsent.com/)
-	On the other hand (continuing comment #26), federal efforts to curtail and punish polygamy and, generally, to force Mormon submission were much more concentrated in Utah territory than outside it.
-27. Michael
-	Fascinating. My great-grandfather, who lived outside of Ogden, worked for the U.S. Marshal’s office, locating and giving testimony against the polygamists.
-	In Idaho, they actually wrote it into the state constitution that citizens could not vote or hold office if they believed in eternal marriage. It was finally removed, in the 1980’s, I believe, by a non-LDS legislator from the Idaho Falls area. It was no Extermination Order, by any means, but still an interesting case of the law being written to specifically forbid a belief (or at least to deny rights based on a belief).
-28. Aaron Brown
-	Great stuff, Brad. Looking forward to the future installments. I also was determined to read the dissertation, until I clicked the link, and saw the page count. Yikes!
-	AB
-29. April
-	Interesting…. can’t wait till we actually get to Correlation… though the cultural background is fascinating and enlightening with regards to my own ancestry.
-30. [Brad](http://bycommonconsent.com/)
-	Yeah, April. This isn’t just a general background — it sets the stage for what’s at stake in the drive toward Correlation. Correlationism emerges as an outgrowth of and set of regulative strategies toward a specific set of historical circumstances and concerns. Once we get there (be patient), the story will make much more sense in light of the backdrop we’re outlining now. In the meantime, enjoy the story. It is beyond fascinating — and that’s not just limited to this post or the Underground.
-31. JES
-	My g-g-gma tells about going on the Underground as a plural wife. She moved a state away from all her family and friends to protect her husband. But when you have several young kids and are visibly pregnant with no visible husband, it’s a little suspicious. And trying to coach your kids into referring to their dad as “Uncle so-and-so” is a recipe for failure.
-	Her husband also did a little cross dressing to hide. “That evening my husband came to chop some wood for me…putting on one of my dress skirts, and a shawl around his shoulders, as was his custom when coming to cut wood, so that any passerby would think it was me cutting wood,”
-32. JES
-	And she had a story that correlates:) to your tales of gossip run amok. This wasn’t about suspicious spies, but fun nonetheless.
-	“There were some quite exciting stories going around town about men trying to get into homes….We investigated one of the most exciting stories which was going the rounds. It was reported that a black man came to the Casto’s home after midnight, and stealthily tried to get in at every door and window in the house. After trying in vain for hours, he finally left. We made close inquiries about the date of this happening, and it coincided with the date that my husband went there late in the night to get brother Casto to go with him to administer to the sick. My husband had knocked at every door, and finally went to the bedroom window, knocked several times on it calling brother Casto all the while. Finally when he got no response, though he knocked and called loud enough to waken the neighbors he went away. Well I decided that if all the reports were like that one, that I and the children were perfectly safe whether my husband was there or not.”
-33. StillConfused
-	I didn’t grow up exposed to polygamy (or even knowing of its existence) so it surprises me how nonchalant people are about the lies, deception and fraud that people condone when it comes to polygamy.
-34. 152
-	34 Well if you can’t laugh about old men crossdressing (and “cutting wood” while crossdressing – whatever that means) and mailing themselves in crates. What can you laugh about?
-35. [Brad](http://bycommonconsent.com/)
-	SC,  
-	Would you lie, deceive, give fraudulent statements to SS guys about the Jews you’re hiding in your attic? Treating these things as moral absolutes or ethical imperatives seems a tad aloof and judgmental considering what was at stake. Federal policymakerswere trying to break up families which, because polygamous, they considered to be illegitimate. The condemnation of the lying presumes the illegitimacy of the act covered up. These folks believed their way of life, under obvious existential threat, to be a precondition for exaltation. I’d prevaricate for less, quite frankly. If federal authorities tried to enforce a law that criminalized, say, having more than 2 kids per couple in my neighborhood, I’d be more than nonchalant about lying to them.
-36. Stephanie
-	I just have to say that the picture is hilarious – but the caption is even better. I crack up every single time I read it. The joke that never gets old.
-37. [Brad](http://bycommonconsent.com/)
-	We aim to please, Stephanie.
-38. [Sam B](http://eatingwell.wordpress.com/)
-	Thanks Brad and Daymon. This first installment has been great, and I look forward to future ones. And to trying to read the dissertation (in between everything else I want to and need to read!).
-39. Daymon
-	Thanks to all the readers, and for the comments. I know the Underground seems like a far cry from Correlation, but only a few hundred pages separates them, in my world anyway. I tend to write backwards, so what is in the beginning will make sense only after we see the end. And vice versa; this is, I believe, the only way to understand Correlation. I suppose this statement should’ve been in the beginning, but it all matters where one starts.
-40. Harold Dwyer
-	Brad, nice interview and very much appreciated.
-	With that said, you should reconsider your argument @36. To compare what Jews would do (to avoid being at best sent to death camps and at worst killed on the spot) to what Church leaders would do to evade federal agents and continue to practice plural marriage trivializes the former. This is not to say that they might not have had legitimate difference of opinion over whether the law was just, but comparing would one might to to survive to what one might do to avoid capture and consequences of illegal activity is overstating your case. I won’t go so far as to say it is an offensive comparison but it is, in my opinion, certainly misplaced.
-41. Bob
-	I am halfway thru the dissertation. I would not be reading it (4 days!) if it was not very, very good. Fine job in keeping the writing simple and balanced.
-42. Paul
-	In this series, will we, at long last, have a “unified field theory” of Mormonism?
-43. 152
-	41 I think you’re focusing on the penal repercussions of being caught – fine, prison, etc. And leaving out the fact that these men were in fact married to women (religiously, not legally) and together were trying to reach the celestial kingdom. I’m sure in many of their eyes, eternal consequences were at stake. So life/torture vs. eternal damnation... yeah, I don’t think the comparison is necessarily a bad one. BTW Godwin’s law.
-44. [Brad](http://bycommonconsent.com/)
-	The Nazi comparison was deliberately over the top to make the point. The far better comparison was the one I made at the end of the comment. The hiding Jews thing was just to establish that there are moral imperatives that trump truth-telling.
-45. [blt](http://deleted/)
-	Great post fellas.
-46. [blt](http://deleted/)
-	Are unlawful cohabitation laws still in effect?  
-	I’m only curious because there sure are a lot of kids in the Salt Lake City area who look exactly like Brad Kramer...  
-	Also, I saw Goody Proctor speaking with the devil.
-47. Mark D.
-	*The irony is that in the public space of the courtroom, these ideas, these things that exist only in people’s minds actually become things that are used against them..*
-	The \_current\_ Utah law against unlawful cohabitation has much the same character:
-	> A person is guilty of bigamy when, knowing he has a husband or wife or knowing the other person has a husband or wife, the person purports to marry another person or cohabits with another person (UCA 76-7-101)
-	The “purports to marry” part of this essentially establishes a thought crime.
-48. Steve G.
-	This has been very interesting and the first I have heard of some of it. I started reading the paper and am now 50 pages in. The paper gets immensely more readable after the first 30 pages btw.
-49. [Brad](http://bycommonconsent.com/)
-	Yes, Steve. After the introductory section, the dissertation gets immensely less theoretically dense, much more readable.
-50. Keenan
-	This is terribly interesting. More to come soon?
