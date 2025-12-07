@@ -5,10 +5,10 @@
 Welcome to our Digital Garden.
 
 ## Travel
-[[Featured/Cities\|Cities]]. 
+[[Featured Pages/Cities\|Cities]]. 
 
 ## Work
-[[Featured/Networking Events\|Networking Events]]
+[[Featured Pages/Networking Events\|Networking Events]]
 
 
 

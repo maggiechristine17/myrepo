@@ -21,7 +21,7 @@ Oh, Matsby — how could you?
 
 ## **Introduction: Origins**
 
-**Brad**: So we want to start the conversation by simply trying to pin down what “correlation” is—is it some kind of committee, is it an administrative or editorial process, is it a mysterious, occult power, is it a state of mind?
+**Brad**: So we want to start the conversation by simply trying to pin down what “[[Clippings/Correlation\|Correlation]]” is—is it some kind of committee, is it an administrative or editorial process, is it a mysterious, occult power, is it a state of mind?
 
 **Daymon**: What I would say to begin with about “correlation” is that it is first and foremost a word. I think where I want to start this conversation is tracking where this word comes from, leaving aside for a time the question of what it might mean.
 
@@ -109,9 +109,9 @@ First things first, though. The Underground. I think for a lot of readers, there
 
 **Brad**: So a spy might be a federal marshal in disguise, but it might also be just a member of the community that the marshals have convinced to cooperate.
 
-**Daymon**: And the whole problem here became, How do you know that somebody is a spy? The local newspapers, particular the ones run by Mormons, kind of ran away with this paranoia. The papers would report, or people would send in letters performing a public service by reporting, the presence of spies in a particular town or area; each report created a kind of syndicated channel of reports. You might get a report of spies in Salt Lake City, and this report might get genericized into a warning of potential spies in another city like Provo or Ogden. You get this sense that nobody really knew what a spy was. Of course the definition of a “spy” was someone who conceals their identity. Ironically, that became the definition of an undergrounder, as well.
+**Daymon**: And the whole problem here became, How do you know that somebody is a spy? The local newspapers, particularly the ones run by Mormons, kind of ran away with this paranoia. The papers would report, or people would send in letters performing a public service by reporting, the presence of spies in a particular town or area; each report created a kind of syndicated channel of reports. You might get a report of spies in Salt Lake City, and this report might get genericized into a warning of potential spies in another city like Provo or Ogden. You get this sense that nobody really knew what a spy was. Of course, the definition of a “spy” was someone who conceals their identity. Ironically, that became the definition of an undergrounder, as well.
 
-**The Undergrounder Creates The Underground**
+## **The Undergrounder Creates The Underground**
 
 **Brad**: So gossip becomes a really powerful phenomenon during this time. There’s a rumor that there’s a spy in this town, so that heightens paranoia, and now any person you come in contact with that isn’t a close friend or family member is a potential spy, simply by virtue of the fact that you don’t recognize them. And there’s literally no way of ascertaining whether or not someone is a spy; and, as you noted, part of the very definition of being a spy or a spotter is spies and spotters deliberately conceal their identity as such.
 
