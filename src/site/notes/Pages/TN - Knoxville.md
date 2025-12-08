@@ -3,9 +3,6 @@
 ---
 
 
-## December 5-7
-- [ ] 
-
 ## This Weekend
 https://www.visitknoxville.com/events/this-weekend/
 <iframe src="https://www.visitknoxville.com/events/this-weekend/"width=100% height=650></iframe>
