@@ -4,5 +4,5 @@
 
 #project
 
-Terms:
-[[Clippings/Correlation - Church History Topics\|Correlation - Church History Topics]]
+Topics:
+[[Pages/Correlation\|Correlation]]
