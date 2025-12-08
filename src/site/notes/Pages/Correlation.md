@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pages/correlation/","noteIcon":""}
 ---
 
-#term
+#topic
 
 Clippings:
 [[Clippings/Correlation - Church History Topics\|Correlation - Church History Topics]]
