@@ -23,4 +23,3 @@ Beginning in the 1970s and 1980s, the Correlation Department was led by an execu
 
 As the Church further grew in the 21st century and as technology brought new opportunities for missionary work, family history, education, and communication, the Correlation Department expanded to include various divisions. These divisions accomplish the work of evaluating all Church materials and intellectual property, optimizing planning and processes, and conducting internal research. The work of correlation also stretched beyond Church headquarters to include Area Presidencies around the world. Such expansions were designed to help the global Church strive for unity amid increasing linguistic and cultural diversity.
 
-**Related Topics:**
