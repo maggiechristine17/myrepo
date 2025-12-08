@@ -5,4 +5,4 @@
 #project
 
 Terms:
-[[Pages/Correlation\|Correlation]]
+[[Correlation\|Correlation]]
