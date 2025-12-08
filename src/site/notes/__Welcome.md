@@ -4,14 +4,8 @@
 
 Welcome to our Digital Garden.
 
-## Travel
-[[Featured Pages/Cities\|Cities]]. 
-
-## Work
-[[Featured Pages/Networking Events\|Networking Events]]
-
-
-
+## Tags
+#clippings are directly clipped from the web.
 ## Coming Soon
 https://maggiechristine.notion.site/chevre
 
