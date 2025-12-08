@@ -2,13 +2,8 @@
 {"dg-publish":true,"permalink":"/clippings/correlation-church-history-topics/","title":"Correlation - Church History Topics","tags":["clippings"],"noteIcon":""}
 ---
 
----
-
----
 
 “Correlation,” Church History Topics (2022)
-
-“Correlation,” Church History Topics
 
 Within The Church of Jesus Christ of Latter-day Saints, the Correlation Department is responsible for ensuring that all work aligns with the doctrine of Jesus Christ and inspired policies of the Church. This department grew out of a 20th-century reform movement in the Church, led by President Joseph F. Smith, that focused on simplifying and centralizing work across Church organizations.
 
