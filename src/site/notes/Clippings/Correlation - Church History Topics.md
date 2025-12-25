@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/clippings/correlation-church-history-topics/","title":"Correlation - Church History Topics","tags":["clippings"],"noteIcon":""}
 ---
 
+Source: https://www.churchofjesuschrist.org/study/history/topics/correlation?lang=eng
 
 “Correlation,” Church History Topics (2022)
 
