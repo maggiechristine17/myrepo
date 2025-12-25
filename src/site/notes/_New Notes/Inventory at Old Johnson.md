@@ -5,10 +5,4 @@
 #project 
 
 
-> [!mm kjil k.  kk]
-> ko;kkk;ok]
-> ;;;
-> ;;;mkm
-> 
-
 

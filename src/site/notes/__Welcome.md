@@ -6,8 +6,8 @@ Welcome to our Digital Garden.
 
 ## Tags
 #clippings are directly clipped from the web.
-#project : Current projects are in the Projects folder. Archived projects are in the Archived folder.
-#topic is a page I have created to better understand a topic and attach articles
+#project are things to do
+#topic are collections of other pages
 ## Coming Soon
 https://maggiechristine.notion.site/chevre
 
