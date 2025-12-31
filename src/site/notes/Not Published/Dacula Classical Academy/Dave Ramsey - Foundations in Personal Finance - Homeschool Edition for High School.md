@@ -3,6 +3,13 @@
 ---
 
 ## Glossary by Chapter
+<iframe
+  src="glossary-by-chapter-home 1.pdf"
+  width="100%"
+  height="600px"
+  style="border: none;">
+</iframe>
+
 
 ![[glossary-by-chapter-home 1.pdf]]
 ## Ch 1 
