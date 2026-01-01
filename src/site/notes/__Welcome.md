@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-01T15:57:15.579-05:00"}
 ---
 
 
-Tips on How to use this Digital Garden:
-- Table of Contents
 ## Tags
 - #clippings are directly clipped from the web. (Located in Clippings folder)
 - #project are things to do.  (Located in Projects folder)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2025-12-07T17:50:13.770-05:00","updated":"2025-12-25T12:31:59.761-05:00"}
 ---
 
 [View Original Blogpost](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/#wp--skip-link--target)
@@ -21,7 +21,7 @@ Oh, Matsby — how could you?
 
 ## **Introduction: Origins**
 
-**Brad**: So we want to start the conversation by simply trying to pin down what “[[Pages/Correlation\|Correlation]]” is—is it some kind of committee, is it an administrative or editorial process, is it a mysterious, occult power, is it a state of mind?
+**Brad**: So we want to start the conversation by simply trying to pin down what “[[Resources/Correlation\|Correlation]]” is—is it some kind of committee, is it an administrative or editorial process, is it a mysterious, occult power, is it a state of mind?
 
 **Daymon**: What I would say to begin with about “correlation” is that it is first and foremost a word. I think where I want to start this conversation is tracking where this word comes from, leaving aside for a time the question of what it might mean.
 
