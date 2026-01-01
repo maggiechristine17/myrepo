@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-01T16:57:01.352-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-01T16:59:43.137-05:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 ### A - Archive
 - Includes pages from all previous 3 categories.
 - #completed have been completed.
-- #archived may be revisited
+
 
 ### Additional Tags
 

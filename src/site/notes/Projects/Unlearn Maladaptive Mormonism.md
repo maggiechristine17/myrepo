@@ -5,4 +5,4 @@
 #project
 
 Topics:
-[[Resources/Correlation\|Correlation]]
+[[Areas/Correlation\|Correlation]]
