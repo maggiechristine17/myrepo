@@ -4,4 +4,4 @@
 
 
 
-[[Projects/SMBash\|SMBash]]
+[[Projects/Archived Projects/SMBash\|SMBash]]

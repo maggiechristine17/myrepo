@@ -5,4 +5,4 @@
 #project 
 
 
-- [ ] [[Projects/Unlearn Maladaptive Mormonism\|Unlearn Maladaptive Mormonism]]
+- [ ] [[Projects/Archived Projects/Unlearn Maladaptive Mormonism\|Unlearn Maladaptive Mormonism]]
