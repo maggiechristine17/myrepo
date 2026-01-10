@@ -1,24 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-01T16:59:43.137-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-10T12:15:34.373-05:00"}
 ---
 
+Welcome to my digital garden for personal & family topics.
 
-## Tags
-### P - Projects
-- #project are things to do.  (Located in Projects folder)
-### A - Areas
-- #area  collections of pages on a topic. Bottom right side of the page, see "Pages mentioning this page" (Located in Pages folder)
-### R - Resources
-- Resources may not have a tag. They are simply notes. (Located in Resources folder)
-- #clippings are a specific type of Resource. They are directly clipped from the web. (Located in Clippings folder)
-- Guides indicate a particular pathway for viewing certain notes (Located in Guides folder)
-### A - Archive
-- Includes pages from all previous 3 categories.
-- #completed have been completed.
+- Projects 
+	- Multi-step, multidisciplinary things I'm working on. 
+	- Completed Projects are stored in their folder.
+	- Archived Projects may be revisited.
 
+- Areas 
+	- Current topics that help me complete projects.
+	- Archived Areas may be revisited.
 
-### Additional Tags
+- Resources
+	- Notes & sources that relate with a current Area or help me to complete a project.
+	- Archived Resources may be revisited.
+	
+- Guides
+	- Guides highlight a particular pathway through this body of connected notes.
 
 ## Coming Soon
+This site will house more complex databases.
 https://maggiechristine.notion.site/chevre
 
