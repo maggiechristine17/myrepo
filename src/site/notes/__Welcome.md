@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-10T12:15:34.373-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-10T15:30:58.302-05:00"}
 ---
 
 Welcome to my digital garden for personal & family topics.
 
+- Guides
+	- Guides highlight a particular pathway through this body of connected notes.
+	
 - Projects 
 	- Multi-step, multidisciplinary things I'm working on. 
 	- Completed Projects are stored in their folder.
@@ -17,8 +20,7 @@ Welcome to my digital garden for personal & family topics.
 	- Notes & sources that relate with a current Area or help me to complete a project.
 	- Archived Resources may be revisited.
 	
-- Guides
-	- Guides highlight a particular pathway through this body of connected notes.
+
 
 ## Coming Soon
 This site will house more complex databases.

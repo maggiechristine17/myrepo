@@ -3,5 +3,5 @@
 ---
 
 [[3. Resources/Archived Resources/NYC\|NYC]].
-[[3. Resources/Archived Resources/TN - Knoxville\|TN - Knoxville]]. [[3. Resources/Archived Resources/TN - Pigeon Forge, Gatlinburg\|TN - Pigeon Forge, Gatlinburg]].
+[[3. Resources/Archived Resources/TN - Knoxville\|TN - Knoxville]]. [[TN - Pigeon Forge, Gatlinburg\|TN - Pigeon Forge, Gatlinburg]].
 
