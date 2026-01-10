@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/inventory-at-old-johnson/","created":"2025-12-13T15:00:47.278-05:00","updated":"2026-01-05T18:22:19.933-05:00"}
+{"dg-publish":true,"permalink":"/1-projects/inventory-at-old-johnson/","created":"2025-12-13T15:00:47.278-05:00","updated":"2026-01-10T13:20:36.482-05:00"}
 ---
 
 
@@ -9,15 +9,13 @@
 
 ## Freezer
 
-## Top Left
+## Top Left Counters
 
-## Bottom Left
+## Bottom Left Counters
 
-## Top Right
+## Top Right Counters
 
-## Bottom Right
-
-## Stove/Oven
+## Bottom Right Counters
 
 ## Pantry
 
