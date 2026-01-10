@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/inventory-at-old-johnson/","created":"2025-12-13T15:00:47.278-05:00","updated":"2026-01-10T13:20:36.482-05:00"}
+{"dg-publish":true,"permalink":"/1-projects/inventory-at-old-johnson/","created":"2025-12-13T15:00:47.278-05:00","updated":"2026-01-10T13:28:41.071-05:00"}
 ---
 
 
 # Kitchen
 
 ## Fridge
-
+dijon
 ## Freezer
 
 ## Top Left Counters
@@ -26,7 +26,7 @@
 # Laundry Room
 
 # Garage
-
+bucket
 # Dining Room
 
 # Living Room & Foyer
