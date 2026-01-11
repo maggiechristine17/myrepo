@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2025-12-07T17:50:13.770-05:00","updated":"2026-01-11T13:47:07.469-05:00"}
+{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2025-12-07T17:50:13.770-05:00","updated":"2026-01-11T13:50:56.800-05:00"}
 ---
 
 
-## MJ Commentary
+## Our Commentary
 
 - MJ has their own Underground. Our secret moves. Avoiding public scrutiny for plural pair-bonding relationships.
 ## Summary
