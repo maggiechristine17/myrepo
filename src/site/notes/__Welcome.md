@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-11T09:26:50.079-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-11T09:43:41.074-05:00"}
 ---
 
 Welcome to my digital garden for personal & family topics.
@@ -27,6 +27,6 @@ Welcome to my digital garden for personal & family topics.
 	- The title is the date it was created
 
 ## Coming Soon
-This site will house more complex databases.
+The following site will house more complex databases:
 https://maggiechristine.notion.site/chevre
 
