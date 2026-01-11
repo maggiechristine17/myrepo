@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-11T10:24:13.229-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-11T11:49:35.967-05:00"}
 ---
 
 Welcome to my digital garden for personal & family topics.
@@ -10,7 +10,6 @@ Welcome to my digital garden for personal & family topics.
 
 - Projects 
 	- Multi-step, multidisciplinary things I'm working on. 
-	- Completed Projects are stored in their folder.
 
 - Areas 
 	- Current topics that help me complete projects.
