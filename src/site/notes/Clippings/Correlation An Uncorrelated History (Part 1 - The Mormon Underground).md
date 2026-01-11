@@ -1,11 +1,83 @@
 ---
-{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2025-12-07T17:50:13.770-05:00","updated":"2026-01-11T09:07:06.563-05:00"}
+{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2025-12-07T17:50:13.770-05:00","updated":"2026-01-11T11:33:15.113-05:00"}
 ---
 
+## Summary
+
+### **Main Goals of the Conversation**
+
+- To understand what _“Correlation”_ really means and where the idea originates—not just as a church program, but as a concept shaped by earlier historical events.
+    
+- The authors argue that the roots of modern Mormonism and Correlation trace back to the 1880s, particularly during the presidency of John Taylor and widespread government pressure against polygamy.
+    
+
+---
+
+### **The Underground: What It Was and Why It Formed**
+
+- The _“Underground”_ refers to Mormon efforts to avoid federal prosecution for practicing plural marriage.
+    
+- Earlier anti-polygamy laws existed but were hard to enforce due to legal loopholes—mainly because wives couldn’t testify against husbands, creating a paradox in court.
+    
+
+---
+
+### **A New Crime: Unlawful Cohabitation**
+
+- In response to these legal problems, the U.S. government created a new, more flexible crime: _“unlawful cohabitation.”_
+    
+- This crime didn’t require proving a marriage took place or that sexual relations occurred.
+    
+- Instead, **public perception** became the main evidence—if people believed a man was living in a marriage-like relationship with multiple women, he could be prosecuted.
+    
+- Ironically, beliefs (normally protected as private) became grounds for legal action.
+    
+
+---
+
+### **Cultural Impact & Rise of Paranoia**
+
+- This shift led to:
+    
+    - Increased surveillance.
+        
+    - Use of spies (sometimes locals, sometimes officials in disguise).
+        
+    - Widespread paranoia and distrust within Mormon communities.
+        
+- Mormons responded by adopting a cultural creed: **“mind your own business.”**
+    
+    - Avoid talking to others.
+        
+    - Hide identities or bodily presence.
+        
+    - Conceal information, even from fellow members.
+        
+- This created cycles of suspicion—those hiding began to _look like spies themselves._
+    
+
+---
+
+### **Key Ironies and Consequences**
+
+- The government said religious belief was protected, but people were prosecuted based on belief or perception.
+    
+- Avoiding prosecution wasn’t just about hiding bodies—it became about hiding _identities and intentions._
+    
+- Gossip amplified fear—reports of spies spread rapidly, creating a culture of secrecy and misrecognition.
+    
+
+---
+
+### **Connection to Correlation**
+
+- Daymon argues this era marks the beginning of a shift in Mormonism—a cultural transformation where identity, belief, and conformity start being managed.
+    
+- These pressures set the stage for what he will eventually call **“Correlationism”**—a system where belief, behavior, and perception are carefully controlled or aligned.
+    
+
+
 [View Original Blogpost](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/#wp--skip-link--target)
-
-
-
 ![](https://i0.wp.com/bycommonconsent.com/wp-content/uploads/2010/03/woodruf_old.jpg?resize=200%2C300)
 
 Oh, Matsby — how could you?
