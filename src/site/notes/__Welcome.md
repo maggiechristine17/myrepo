@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-11T10:21:23.673-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-11T10:24:13.229-05:00"}
 ---
 
 Welcome to my digital garden for personal & family topics.
 
-- Guides
+- Guides (Coming Soon)
 	- Guides highlight a particular pathway through this body of connected notes.
 	- Some are simple outlines; others are essays I've written.
 
