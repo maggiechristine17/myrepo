@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-11T10:11:44.157-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-11T10:21:23.673-05:00"}
 ---
 
 Welcome to my digital garden for personal & family topics.
@@ -29,4 +29,5 @@ Welcome to my digital garden for personal & family topics.
 ## Coming Soon
 The following site will house more complex databases:
 https://maggiechristine.notion.site/famchat
-<iframe src="https://maggiechristine.notion.site/famchat"width=100% height=650></iframe>
+<iframe src="https://maggiechristine.notion.site/ebd//2b0f4689d8e180d5bef8fb6dcfee5729" width="100%" height="600" frameborder="0" allowfullscreen />
+
