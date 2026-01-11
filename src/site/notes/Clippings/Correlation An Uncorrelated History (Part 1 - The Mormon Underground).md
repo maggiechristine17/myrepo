@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2025-12-07T17:50:13.770-05:00","updated":"2026-01-11T11:33:15.113-05:00"}
+{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2025-12-07T17:50:13.770-05:00","updated":"2026-01-11T11:55:56.330-05:00"}
 ---
 
 ## Summary
@@ -76,6 +76,7 @@
 - These pressures set the stage for what he will eventually call **“Correlationism”**—a system where belief, behavior, and perception are carefully controlled or aligned.
     
 
+---
 
 [View Original Blogpost](https://bycommonconsent.com/2010/03/03/correlation-an-uncorrelated-history-part-1-the-mormon-underground/#wp--skip-link--target)
 ![](https://i0.wp.com/bycommonconsent.com/wp-content/uploads/2010/03/woodruf_old.jpg?resize=200%2C300)
