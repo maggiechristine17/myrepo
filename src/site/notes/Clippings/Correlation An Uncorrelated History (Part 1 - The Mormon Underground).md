@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2025-12-07T17:50:13.770-05:00","updated":"2026-01-11T11:55:56.330-05:00"}
+{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2025-12-07T17:50:13.770-05:00","updated":"2026-01-11T13:30:27.286-05:00"}
 ---
 
+see: [[_New Notes/MJ reacts to Correlation Part 1\|MJ reacts to Correlation Part 1]]
 ## Summary
 
 ### **Main Goals of the Conversation**
@@ -13,10 +14,13 @@
 
 ---
 
+![[#^af8487]]
 ### **The Underground: What It Was and Why It Formed**
 
 - The _“Underground”_ refers to Mormon efforts to avoid federal prosecution for practicing plural marriage.
     
+{ #af8487}
+
 - Earlier anti-polygamy laws existed but were hard to enforce due to legal loopholes—mainly because wives couldn’t testify against husbands, creating a paradox in court.
     
 
