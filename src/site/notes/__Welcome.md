@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-10T15:30:58.302-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-07-28T19:18:58.195-04:00","updated":"2026-01-11T08:40:28.506-05:00"}
 ---
 
 Welcome to my digital garden for personal & family topics.
@@ -20,7 +20,8 @@ Welcome to my digital garden for personal & family topics.
 	- Notes & sources that relate with a current Area or help me to complete a project.
 	- Archived Resources may be revisited.
 	
-
+- Daily Notes
+	- informal, unpolished ideas
 
 ## Coming Soon
 This site will house more complex databases.
