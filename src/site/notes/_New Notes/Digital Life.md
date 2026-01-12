@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/new-notes/digital-life/","created":"2026-01-11T13:02:27.202-05:00","updated":"2026-01-11T13:02:48.968-05:00"}
----
-
-
-- [ ] future proof my obs notes
-- [ ] 
