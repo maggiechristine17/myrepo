@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/the-mormons-and-the-theatre/","created":"2026-01-09T11:13:14.681-05:00","updated":"2026-01-11T11:13:24.386-05:00"}
 ---
 
-see: [[2. Areas/Mormonism\|Mormonism]]
+see: [[Mormonism\|Mormonism]]
 
 https://archive.org/details/mormonstheatreor00lindrich/page/n5/mode/2up
 
