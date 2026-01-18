@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clippings/correlation-church-history-topics/","title":"Correlation - Church History Topics","tags":["clippings"],"created":"2025-12-07T19:27:56.486-05:00","updated":"2026-01-11T09:07:01.552-05:00"}
+{"dg-publish":true,"permalink":"/clippings/correlation-church-history-topics/","title":"Correlation - Church History Topics","tags":["clippings"],"created":"2026-01-11T09:07:01.000-05:00","updated":"2026-01-11T09:07:01.552-05:00"}
 ---
 
 Source: https://www.churchofjesuschrist.org/study/history/topics/correlation?lang=eng

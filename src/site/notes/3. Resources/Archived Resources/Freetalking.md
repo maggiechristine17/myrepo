@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/archived-resources/freetalking/","created":"2026-01-11T12:40:36.496-05:00","updated":"2026-01-11T12:58:35.306-05:00"}
+{"dg-publish":true,"permalink":"/3-resources/archived-resources/freetalking/","created":"2026-01-11T12:58:35.000-05:00","updated":"2026-01-11T12:58:35.306-05:00"}
 ---
 
 is talking in blocks, using voice dictation.

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/the-mathematics-of-love-hannah-fry/","created":"2026-01-11T19:35:12.000-05:00","updated":"2026-01-16T13:34:42.008-05:00"}
+{"dg-publish":true,"permalink":"/3-resources/the-mathematics-of-love-hannah-fry/","created":"2026-01-11T19:35:12.000-05:00","updated":"2026-01-17T14:15:32.413-05:00"}
 ---
 
-see: [[1. Projects/Chevy Projects\|Chevy Projects]]
+see: [[2. Areas/Chevy\|Chevy]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yFVXsjVdvmY?si=yJLlAB_YbE8yc2ZH&amp;start=834" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

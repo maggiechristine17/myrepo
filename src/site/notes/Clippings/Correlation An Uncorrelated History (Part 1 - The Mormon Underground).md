@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2025-12-07T17:50:13.770-05:00","updated":"2026-01-11T14:01:23.574-05:00"}
+{"dg-publish":true,"permalink":"/clippings/correlation-an-uncorrelated-history-part-1-the-mormon-underground/","title":"Correlation: An Uncorrelated History (Part 1 - The Mormon Underground)","tags":["clippings"],"created":"2026-01-11T14:01:23.000-05:00","updated":"2026-01-11T14:01:23.574-05:00"}
 ---
 
 

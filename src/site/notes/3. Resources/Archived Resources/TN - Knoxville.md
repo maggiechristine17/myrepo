@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/archived-resources/tn-knoxville/","created":"2025-12-05T10:34:32.810-05:00","updated":"2025-12-07T19:32:18.472-05:00"}
+{"dg-publish":true,"permalink":"/3-resources/archived-resources/tn-knoxville/","created":"2025-12-07T19:32:18.000-05:00","updated":"2025-12-07T19:32:18.472-05:00"}
 ---
 
 

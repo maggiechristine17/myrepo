@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/the-mormons-and-the-theatre/","created":"2026-01-09T11:13:14.681-05:00","updated":"2026-01-11T11:13:24.386-05:00"}
+{"dg-publish":true,"permalink":"/3-resources/the-mormons-and-the-theatre/","created":"2026-01-11T11:13:24.000-05:00","updated":"2026-01-11T11:13:24.386-05:00"}
 ---
 
 see: [[Mormonism\|Mormonism]]
