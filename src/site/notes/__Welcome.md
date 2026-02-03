@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-11T11:49:35.000-05:00","updated":"2026-01-19T20:08:07.630-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-11T11:49:35.000-05:00","updated":"2026-02-03T18:04:07.012-05:00"}
 ---
 
 Welcome to my digital garden for personal & family topics.
 
-Tags
-#anytime - do anytime
+[[Tags\|Tags]]
+
 
 - Guides (Coming Soon)
 	- Guides highlight a particular pathway through this body of connected notes.
