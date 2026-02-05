@@ -4,7 +4,7 @@
 
 #next_month 
 
-see: [[2. Areas/Networking Events\|Networking Events]] [[2. Areas/Chevy\|Chevy]]
+see: [[2. Areas/Archived Areas/Networking Events\|Networking Events]] [[2. Areas/Chevy\|Chevy]]
 [[3. Resources/SMBash ChatGPT 1\|SMBash ChatGPT 1]]
 
 
