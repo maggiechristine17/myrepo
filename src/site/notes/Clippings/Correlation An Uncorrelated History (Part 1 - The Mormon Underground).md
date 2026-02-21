@@ -98,7 +98,7 @@ Oh, Matsby — how could you?
 
 ## **Introduction: Origins**
 
-**Brad**: So we want to start the conversation by simply trying to pin down what “[[3. Resources/Correlation\|Correlation]]” is—is it some kind of committee, is it an administrative or editorial process, is it a mysterious, occult power, is it a state of mind?
+**Brad**: So we want to start the conversation by simply trying to pin down what “[[3. Resources/Religion/Correlation\|Correlation]]” is—is it some kind of committee, is it an administrative or editorial process, is it a mysterious, occult power, is it a state of mind?
 
 **Daymon**: What I would say to begin with about “correlation” is that it is first and foremost a word. I think where I want to start this conversation is tracking where this word comes from, leaving aside for a time the question of what it might mean.
 

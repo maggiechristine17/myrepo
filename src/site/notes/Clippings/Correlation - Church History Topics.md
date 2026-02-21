@@ -6,7 +6,7 @@ Source: https://www.churchofjesuschrist.org/study/history/topics/correlation?lan
 
 “Correlation,” Church History Topics (2022)
 
-Within The Church of Jesus Christ of Latter-day Saints, the [[3. Resources/Correlation\|Correlation]] Department is responsible for ensuring that all work aligns with the doctrine of Jesus Christ and inspired policies of the Church. This department grew out of a 20th-century reform movement in the Church, led by President Joseph F. Smith, that focused on simplifying and centralizing work across Church organizations.
+Within The Church of Jesus Christ of Latter-day Saints, the [[3. Resources/Religion/Correlation\|Correlation]] Department is responsible for ensuring that all work aligns with the doctrine of Jesus Christ and inspired policies of the Church. This department grew out of a 20th-century reform movement in the Church, led by President Joseph F. Smith, that focused on simplifying and centralizing work across Church organizations.
 
 Many Church organizations in the 19th century, including Sunday Schools, youth groups, and the children’s organization, began locally. Perceiving needs in their communities, many Church members developed associations and services that overlapped with quorums, wards, and stakes but that were somewhat independent of them. By the end of the century, many Church organizations, quorums, and missions were producing their own instructional material, resulting in a wide array of literature. Church President Joseph F. Smith recognized the need to “correlate” the diverse auxiliary programs into unified curricula, separating speculations from official teachings and building consistency in messaging across the Church.
 
