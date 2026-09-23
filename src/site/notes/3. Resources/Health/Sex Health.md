@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/health/sex-health/","created":"2026-01-16T12:16:36.937-05:00","updated":"2026-02-16T17:06:50.601-05:00"}
+{"dg-publish":true,"permalink":"/3-resources/health/sex-health/","created":"2026-01-16T12:16:36.937-05:00","updated":"2026-03-04T14:40:37.269-05:00"}
 ---
 
-#this_week 
+
 - [ ] probiotic for vag
 - [ ] all cotton pads
 
